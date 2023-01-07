@@ -10,3 +10,5 @@ You can even publish it to MovieStats!
 Tomiga (creator of this game and the editor)
 
 LeoKids 
+
+This is now obsolete due to custom set support

@@ -13,3 +13,5 @@ LeoKids
 
 This is now obsolete due to custom set support
 Which was released in 2023.
+
+And Tomiga unfortunately has died,so there's no way i'll continue on it.
